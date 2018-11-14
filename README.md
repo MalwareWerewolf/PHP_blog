@@ -9,7 +9,7 @@ I made this project for an italian teacher initially then I started to apply som
 
 ## What do I need to make the Blog work correctly ?
 
-You just need **Apache** and **Mysql** both installed on your computer, create a new database called **its_blog** then you have to import from the *dao* folder, which is inside the app folder, the **its_blog.sql** file.
+You just need **Apache** and **Mysql** both installed on your computer, create a new database called **its_blog** then you have to import from the **dao** folder, which is inside the app folder, the **its_blog.sql** file.
 
 ### Built with
 * [PHP](https://secure.php.net/)
