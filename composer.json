@@ -1,6 +1,6 @@
 {
     "name": "home/php_blog",
-    "description": "This blog is based on the MVC(model - view - controller) standard, you can use the most recent php version or an old one, it does not change anything. As I typed in the repository's title, I made this project at school, this is a good starting point for people who don't know how to implement the MVC logic in php."
+    "description": "This blog is based on the MVC(model - view - controller) standard, you can use the most recent php version or an old one, it does not change anything. As I typed in the repository's title, I made this project at school, this is a good starting point for people who don't know how to implement the MVC logic in php.",
     "type": "project",
     "license": "MIT",
     "authors": [
